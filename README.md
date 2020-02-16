@@ -9,6 +9,10 @@ tensorflow dataset objects and models
 Run:
 
 ```sh
+git clone git@github.com:sandman21dan/metaflow-tensorflow-pickle-issue.git
+```
+
+```sh
 docker build . -t metaflow-tensorflow-issue
 ```
 
